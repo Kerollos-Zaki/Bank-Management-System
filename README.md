@@ -14,7 +14,7 @@ The Bank Management System is a Java-based console application that simulates th
 ## 🛠️ Technologies Used
 * **Language:** Java
 * **Architecture:** Object-Oriented Programming (Inheritance, Polymorphism, Interfaces)
-* **Storage:** File I/O (Text files)[cite: 2]
+* **Storage:** File I/O (Text files)
 * **IDE:** IntelliJ IDEA (Ready to import via the `.idea` configuration)
 
 ## 📂 Project Structure
