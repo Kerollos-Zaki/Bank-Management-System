@@ -18,7 +18,7 @@ The Bank Management System is a Java-based console application that simulates th
 * **IDE:** IntelliJ IDEA (Ready to import via the `.idea` configuration)
 
 ## 📂 Project Structure
-
+```text
 ├── src/
 │   ├── Main.java               # Application entry point
 │   ├── User.java               # Base abstract class for system users
